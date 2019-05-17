@@ -1,0 +1,14 @@
+{
+  "name": "jest-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.spec.js",
+  "scripts": {
+    "test": "jest --watchAll --env=node"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "24.6.0"
+  }
+}
