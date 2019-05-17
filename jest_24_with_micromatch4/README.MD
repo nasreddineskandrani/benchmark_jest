@@ -5,4 +5,4 @@
 ~ Time:        0.512s, estimated 1s
 
 # watch mode running on edit
-~ Time:        0.532s, estimated 1s
+~ Time:        0.293s, estimated 1s
