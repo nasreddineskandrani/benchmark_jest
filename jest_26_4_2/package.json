@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.spec.js",
   "scripts": {
-    "test": "jest --watchAll --env=node"
+    "test": "jest --watchAll"
   },
   "author": "",
   "license": "ISC",
